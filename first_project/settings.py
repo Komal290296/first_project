@@ -25,7 +25,7 @@ SECRET_KEY = 'y#rf1a#g$@=bg)2=7(tt=_=+kp-enzsh^^6*a_ln^md0x16_hb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['komal29.pythonanywhere.com']
 
 
 # Application definition
